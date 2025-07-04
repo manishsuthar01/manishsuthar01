@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [ClickToCook](https://clicktocook.netlify.app/)
 
-- 🌱 I’m currently learning **javaScript,React**
+- 🌱 I’m currently learning **javaScript, React**
 
-- 💬 Ask me about **js,react,gsap**
+- 💬 Ask me about ** js, react, gsap**
 
-- 📫 How to reach me **manishsuthar78775#gmail.com**
+- 📫 How to reach me **manishsuthar78775@gmail.com**
 
 - ⚡ Fun fact **I think i am lazzy**
 
