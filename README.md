@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm manish kumar khati</h1>
+<h1 align="center">Hi 👋, I'm manish </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsuthar01&label=Profile%20views&color=0e75b6&style=flat" alt="manishsuthar01" /> </p>
 
-- 🔭 I’m currently working on [ClickToCook](https://clicktocook.netlify.app/)
+- 🔭 I’m currently working on [meran_chatAPP](https://mern-chatapp-iq3p.onrender.com/)
 
-- 🌱 I’m currently learning **javaScript, React**
+- 🌱 I’m currently learning **Nodejs, Reactjs**
 
-- 💬 Ask me about ** js, react, gsap**
+- 💬 Ask me about **Nodejs, JavaScript, React, Gsap**
 
 - 📫 How to reach me **manishsuthar78775@gmail.com**
 
