@@ -20,27 +20,13 @@ A passionate fullstack developer
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/manishsuthar01"><img src="https://github-readme-stats.vercel.app/api?username=manishsuthar01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="manishsuthar01's GitHub stats" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishsuthar01&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishsuthar01&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=default)
 
 <a href="http://www.github.com/manishsuthar01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsuthar01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/manishsuthar01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsuthar01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/manishsuthar01/Mern_ChatApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manishsuthar01&repo=Mern_ChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/manishsuthar01/MyPortfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manishsuthar01&repo=MyPortfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/manishsuthar01/new-flappy-bird" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manishsuthar01&repo=new-flappy-bird&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/manishsuthar01/qrdx" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manishsuthar01&repo=qrdx&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/manish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/manish"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
