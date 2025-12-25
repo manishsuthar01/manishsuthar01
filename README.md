@@ -17,14 +17,14 @@ A passionate fullstack developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/manishsuthar01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/ManishSuth047" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/manish-suthar1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=default)
+<p><b>My GitHub Stats</b></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishsuthar01&theme=default&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishsuthar01&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishsuthar01&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishsuthar01&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=dark)
 
 <a href="http://www.github.com/manishsuthar01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsuthar01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
