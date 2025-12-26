@@ -8,18 +8,17 @@ A passionate fullstack developer
 * ✉️  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
 * 🚀  I'm currently working on [chatly](http://mern-chatapp-iq3p.onrender.com/)
 * 🧠  I'm currently learning Nodejs
-* 💬  Ask me about nodejs| reactjs
+* 💬  Ask me about nodejs | reactjs
 *  Fun fact I think i made for coding
 
----
 
-##💻 Tech Stack
+
+##<h2>💻 Tech Stack</h2>
 
 ### 🧠 Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
----
 
 ### 🎨 Frontend Development
 ![React](https://skillicons.dev/icons?i=react)
@@ -27,26 +26,22 @@ A passionate fullstack developer
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
----
 
 ### ⚙️ Backend Development
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 
----
 
 ### 🗄️ Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
----
 
 ### 🚀 DevOps & Deployment
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 
----
 
 ### 🛠️ Tools & Environment
 ![VS Code](https://skillicons.dev/icons?i=vscode)
@@ -75,7 +70,7 @@ A passionate fullstack developer
 <p><b>My GitHub Stats</b></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishsuthar01&theme=dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=dark)
