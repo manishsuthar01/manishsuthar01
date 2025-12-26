@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is manish
 ===============================================================================================================================
 
-A passionate fullstack developer
+A passionate fullStack developer
 --------------------------------
 
 * 🌍  I'm based in India
@@ -13,7 +13,7 @@ A passionate fullstack developer
 
 
 
-##<h2>💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
 ### 🧠 Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -59,7 +59,7 @@ A passionate fullstack developer
    <a href="https://github.com/manishsuthar01">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="manishsuthar01" height="30"               width="40"  style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
-  <a href="https://linkedin.com/in/manishsuthar01" rel="nofollow">
+  <a href="https://linkedin.com/in/manish-suthar1/" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishsuthar01" height="30"       width="40" style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
   <a href="https://instagram.com/money.s47" rel="nofollow">
