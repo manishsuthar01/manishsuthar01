@@ -8,22 +8,21 @@ A passionate fullstack developer
 * ✉️  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
 * 🚀  I'm currently working on [chatly](http://mern-chatapp-iq3p.onrender.com/)
 * 🧠  I'm currently learning Nodejs
-* 💬  Ask me about Fun fact I think i made for coding
-  
+* 💬  Ask me about nodejs| reactjs
+*  Fun fact I think i made for coding
 
-<p align="left">
-## 💻 Tech Stack
+---
+
+##💻 Tech Stack
 
 ### 🧠 Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![Markdown](https://skillicons.dev/icons?i=md)
 
 ---
 
 ### 🎨 Frontend Development
 ![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=next)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
@@ -39,7 +38,6 @@ A passionate fullstack developer
 ### 🗄️ Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ---
 
@@ -47,7 +45,6 @@ A passionate fullstack developer
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
-![AWS](https://skillicons.dev/icons?i=aws)
 
 ---
 
