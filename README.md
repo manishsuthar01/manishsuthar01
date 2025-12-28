@@ -57,13 +57,13 @@ A passionate fullStack developer
 
 <p align="left"> 
    <a href="https://github.com/manishsuthar01">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="manishsuthar01" height="30"               width="40"  style="max-width: 100%; height: auto; max-height: 30px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="manishsuthar01" height="30" width="40"  style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
   <a href="https://linkedin.com/in/manish-suthar1/" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishsuthar01" height="30"       width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishsuthar01" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
   <a href="https://instagram.com/money.s47" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40"              style="max-width: 100%; height: auto; max-height: 30px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
 </p>
 
@@ -71,8 +71,6 @@ A passionate fullStack developer
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishsuthar01&theme=dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=dark)
 
 <a href="http://www.github.com/manishsuthar01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsuthar01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
