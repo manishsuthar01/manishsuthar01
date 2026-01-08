@@ -72,7 +72,3 @@ A passionate fullStack developer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=dark)
-
-<a href="http://www.github.com/manishsuthar01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsuthar01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
