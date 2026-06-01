@@ -6,10 +6,10 @@ A passionate fullStack developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
-* 🚀  I'm currently working on [chatly](http://mern-chatapp-iq3p.onrender.com/)
+* 🚀  I'm currently working on [pothi]
 * 🧠  I'm currently learning Nodejs
 * 💬  Ask me about nodejs | reactjs
-*  Fun fact I think i made for coding
+*  Fun fact, I think I am lazy... 
 
 
 
