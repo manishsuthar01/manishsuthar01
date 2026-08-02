@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is manish
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) manish here.
 ===============================================================================================================================
 
-A  fullStack developer
+A  full-stack engineer
 --------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
-* 🚀  I'm currently working on [pothi]
-* 🧠  I'm currently learning Nodejs
-* 💬  Ask me about nodejs | reactjs
-*  Fun fact, I think I am lazy... 
+* 🚀  I'm currently working on LegalGPT
+* 🧠  I'm currently learning LangGraph
+* 💬  Ask me about LangChain | Next.js
+*  Fun fact: I think I'm too lazzzy... 
 
 
 
@@ -21,6 +21,7 @@ A  fullStack developer
 
 
 ### 🎨 Frontend Development
+![Next](https://skillicons.dev/icons?i=next)
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
