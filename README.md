@@ -70,10 +70,6 @@ A  full-stack engineer
 
 <p><b>My GitHub Stats</b></p>
 
-![manishsuthar01's GitHub Stats](https://readme-stats-github.pages.dev/api?username=manishsuthar01&theme=dark)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=manishsuthar01&theme=dark)
-![manishsuthar01's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=manishsuthar01&type=contributions&theme=github)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=dark)
