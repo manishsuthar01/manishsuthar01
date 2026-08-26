@@ -4,23 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A  full-stack engineer
 --------------------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
-* 🚀  I'm currently working on LegalGPT
-* 🧠  I'm currently learning LangGraph
-* 💬  Ask me about LangChain | Next.js
+*  I'm based in India
+*  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
+*  I'm currently working on LegalGPT
+*  I'm currently learning LangGraph
+*  Ask me about LangChain | Next.js
 *  Fun fact: I think I'm too lazzzy... 
 
 
 
-<h2>💻 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-### 🧠 Programming Languages
+### Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
 
-### 🎨 Frontend Development
+### Frontend Development
 ![Next](https://skillicons.dev/icons?i=next)
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -28,23 +28,23 @@ A  full-stack engineer
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 
-### ⚙️ Backend Development
+### Backend Development
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 
 
-### 🗄️ Database
+### Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 
-### 🚀 DevOps & Deployment
+### DevOps & Deployment
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 
 
-### 🛠️ Tools & Environment
+### Tools & Environment
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
