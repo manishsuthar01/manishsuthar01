@@ -18,6 +18,7 @@ A  full-stack engineer
 ### Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![TypeScript](https://skillicons.dev/icons?i=cpp)
 
 
 ### Frontend Development
