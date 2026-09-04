@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) manish here.
 ===============================================================================================================================
 
-A  full-stack engineer
+A Full-Stack Engineer.
 --------------------------------
 
-*  I'm based in India
+*  I'm based in India.
 *  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
-*  I'm currently working on LegalGPT
-*  I'm currently learning LangGraph
-*  Ask me about LangChain | Next.js
-*  Fun fact: I think I'm too lazzzy... 
-
+*  I'm currently working on LegalGPT.
+*  I'm currently learning LangGraph and LangChain.
+*  Ask me about LangChain and Next.js.
 
 
 <h2>Tech Stack</h2>
