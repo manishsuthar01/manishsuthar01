@@ -35,6 +35,7 @@ A Full-Stack Engineer.
 ### Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![SQL](https://skillicons.dev/icons?i=sql)
 
 
 ### DevOps & Deployment
