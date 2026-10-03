@@ -73,4 +73,7 @@ A Full-Stack Engineer.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsuthar01&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishsuthar01&theme=dark)
-<p>total profile view :![](https://komarev.com/ghpvc/?username=manishsuthar01)</p>
+<p>
+  Total profile views:
+  <img src="https://komarev.com/ghpvc/?username=manishsuthar01" />
+</p>
