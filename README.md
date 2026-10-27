@@ -6,8 +6,8 @@ A Full-Stack Engineer.
 
 *  I'm based in India.
 *  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
-*  I'm currently working on LegalGPT.
-*  I'm currently learning LangGraph and LangChain.
+*  I'm currently working on thirdeye.
+*  I'm currently learning RabbitMQ and LangGraph.
 *  Ask me about LangChain and Next.js.
 
 
