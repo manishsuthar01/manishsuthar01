@@ -6,9 +6,9 @@ A Full-Stack Engineer.
 
 *  I'm based in India.
 *  You can contact me at [manishsuthar78775@gmail.com](mailto:manishsuthar78775@gmail.com)
-*  I'm currently working on thirdeye.
+*  I'm currently working on Thirdeye.
 *  I'm currently learning RabbitMQ and LangGraph.
-*  Ask me about LangChain and Next.js.
+*  Ask me about message Queues and LangGraph.
 
 
 <h2>Tech Stack</h2>
